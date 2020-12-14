@@ -1,4 +1,5 @@
 The procedure given below to run the Driver Drowsiness Detection System Software in windows 10.
+
 •	install  Anaconda.
 
 •	install different libraries used in project:
@@ -17,4 +18,4 @@ The procedure given below to run the Driver Drowsiness Detection System Software
 
 •	 run the project on Anaconda prompt
 
-Note: Create a folder name it haarcascades and put the haarcascade_frontalface_default into it.
+Note: Create a folder name it haarcascades and put the haarcascade_frontalface_default.xml into it.
